@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="run">
+    <setting name="run_enginelog" value="C:\Users\03bey\Desktop\Logumuz.txt"/>
+  </category>
+  <category name="cplex">
+    <setting name="eprelax" value="10.0"/>
+  </category>
+</settings>
